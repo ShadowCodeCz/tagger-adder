@@ -1,0 +1,33 @@
+[
+    {
+        "tags": [],
+        "text": []
+    },
+    {
+        "tags": [
+            "tag@A",
+            "tag@B"
+        ],
+        "text": []
+    },
+    {
+        "tags": [
+            "tag@A",
+            "tag@B",
+            "tag@C"
+        ],
+        "text": [
+            "adsfdsdf"
+        ]
+    },
+    {
+        "tags": [
+            "tag@A",
+            "tag@B",
+            "dddd"
+        ],
+        "text": [
+            "ahoj"
+        ]
+    }
+]
